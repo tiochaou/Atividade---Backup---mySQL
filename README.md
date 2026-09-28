@@ -1,4 +1,4 @@
-##💾 Projeto de Backup e Restauração de Banco de Dados 🗄️##
+💾 PROJETO DE BACKUP E RESTAURAÇÃO DE BANCO DE DADOS 🗄️
 
 📌 Sobre o Projeto
 
@@ -40,7 +40,7 @@ Geração dos arquivos de backup no diretório do usuário local (Users\Dev_1o_A
 
 backup.sql (Backup Completo)
 
-eleitor.sql (Backup da Tabela Especifica)
+eleitor.sql (Backup da Tabela Específica)
 
 2️⃣ Exportação de Backups (Dump) 📤
 
